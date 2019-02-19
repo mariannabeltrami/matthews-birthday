@@ -1,0 +1,18 @@
+h1 {
+  font-family: Tahoma;
+  color: green;
+}
+
+h2 {
+  font-family: sans-serif;
+  color: pink;
+}
+
+h3 {
+  font-family: cursive;
+  color: purple;
+}
+
+ol {
+  font-family: Tahoma;
+}
